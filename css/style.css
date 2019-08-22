@@ -1,0 +1,7 @@
+.jumbotron img {
+    border:4px solid white;
+}
+
+.about {
+    min-height: 300px;
+}
